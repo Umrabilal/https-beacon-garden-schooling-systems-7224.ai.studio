@@ -1,0 +1,8 @@
+{
+  "name": "Beacon Garden Schooling System",
+  "description": "Comprehensive school management system for Beacon Garden Schooling System (Playgroup to 10th grade) featuring multi-branch administration across Arat Koroona Village and Umarzai Bazar campuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
